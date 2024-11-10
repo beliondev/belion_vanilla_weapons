@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "belion_vanilla_weapons:items/espada_madera_reforzada"
-  }
-}

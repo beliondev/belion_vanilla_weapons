@@ -1,6 +1,6 @@
-package com.beliondev.belion_vanilla_weapons.items;
+package com.beliondev.empowered_armaments.items;
 
-import com.beliondev.belion_vanilla_weapons.Main;
+import com.beliondev.empowered_armaments.Main;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.Item;

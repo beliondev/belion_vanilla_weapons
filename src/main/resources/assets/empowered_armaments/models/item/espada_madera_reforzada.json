@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "empowered_armaments:items/espada_madera_reforzada"
+  }
+}

@@ -1,23 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "DDD",
-    "DID",
+    "RRR",
+    "RWR",
     " C "
   ],
   "key": {
-    "D": {
-      "item": "minecraft:diamond"
+    "R": {
+      "item": "minecraft:cobblestone"
     },
-    "I": {
-      "item": "minecraft:iron_sword"
+    "W": {
+      "item": "minecraft:wooden_sword"
     },
     "C": {
       "item": "minecraft:leather"
     }
   },
   "result": {
-    "item": "belion_vanilla_weapons:espada_hierro_reforzada",
+    "item": "empowered_armaments:espada_madera_reforzada",
     "count": 1
   }
 }

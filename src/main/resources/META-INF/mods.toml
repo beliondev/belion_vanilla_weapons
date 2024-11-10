@@ -7,48 +7,27 @@ license="All rights reserved" # Licencia del mod, obligatorio.
 #issueTrackerURL="https://example.com/issues" # URL opcional para reporte de errores.
 
 [[mods]] # Sección obligatoria que describe el mod.
-modId="belion_vanilla_weapons" # Identificador único del mod, obligatorio.
+modId="empowered_armaments" # Identificador único del mod, obligatorio.
 version="0.1.0" # Versión del mod, obligatorio.
-displayName="Belion Vanilla Weapons" # Nombre que se mostrará para el mod, obligatorio.
+displayName="Empowered Armaments" # Nombre que se mostrará para el mod, obligatorio.
 credits="Inspirado en la comunidad de modding de Minecraft y desarrollado por Belion Dev" # Créditos opcionales.
-authors="Belion Dev Team" # Autor o autores del mod, opcional.
-logoFile="belion_vanilla_weapons.png"
+authors="Belion Dev" # Autor o autores del mod, opcional.
+logoFile="empowered_armaments.png"
 
 # Descripción detallada del mod (obligatoria).
 description = '''
-[SPANISH]
-
-Belion Vanilla Weapons es un mod diseñado para mejorar la experiencia de juego con armas básicas de Minecraft, como espadas y hachas. Este mod permite a los jugadores actualizar y mejorar las armas vanilla, añadiendo un nuevo nivel de poder y funcionalidad para hacerlas más efectivas en combate.
-
-Con Belion Vanilla Weapons, los jugadores podrán explorar nuevas recetas de crafteo y utilizar materiales avanzados para potenciar sus armas, aumentando sus estadísticas de daño y velocidad. Es un complemento ideal para aquellos que buscan llevar sus aventuras al siguiente nivel sin perder el estilo clásico de Minecraft.
-
-Características principales:
-- Mejoras para espadas y hachas.
-- Nuevas recetas de crafteo.
-- Niveles adicionales de mejora y personalización.
-
-[ENGLISH]
-
-Belion Vanilla Weapons is a mod designed to enhance the gameplay experience with basic Minecraft weapons, such as swords and axes. This mod allows players to upgrade and improve vanilla weapons, adding a new level of power and functionality to make them more effective in combat.
-
-With Belion Vanilla Weapons, players can explore new crafting recipes and use advanced materials to enhance their weapons, increasing their damage and speed stats. It is an ideal add-on for those looking to take their adventures to the next level while maintaining the classic Minecraft style.
-
-Key Features:
-- Upgrades for swords and axes.
-- New crafting recipes.
-- Additional levels of enhancement and customization.
-
+Empowered Armaments is a mod designed to enhance the gameplay experience with basic Minecraft weapons, such as swords and axes. This mod allows players to upgrade and improve vanilla weapons, adding a new level of power and functionality to make them more effective in combat. With Empowered Armaments, players can explore new crafting recipes and use advanced materials to enhance their weapons, increasing their damage and speed stats. It is an ideal add-on for those looking to take their adventures to the next level while maintaining the classic Minecraft style.
 '''
 
 
-[[dependencies.belion_vanilla_weapons]] # Dependencia de Forge, obligatoria.
+[[dependencies.empowered_armaments]] # Dependencia de Forge, obligatoria.
 modId="forge"
 mandatory=true
 versionRange="[38,)"
 ordering="NONE"
 side="BOTH"
 
-[[dependencies.belion_vanilla_weapons]] # Dependencia de Minecraft, obligatoria.
+[[dependencies.empowered_armaments]] # Dependencia de Minecraft, obligatoria.
 modId="minecraft"
 mandatory=true
 versionRange="[1.18,1.19)"
