@@ -38,3 +38,7 @@ With Belion Vanilla Weapons, players can explore new crafting recipes and use ad
 - Reinforced stone sword: **8 Attack Damage, 2 Attack Speed**
 - Reinforced iron sword: **11 Attack Damage, 2 Attack Speed**
 - Reinforced diamond sword: **14 Attack Damage, 2 Attack Speed**
+
+
+### Netx features:
+New recipes for axe reinforcement
