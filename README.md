@@ -41,4 +41,4 @@ With Belion Vanilla Weapons, players can explore new crafting recipes and use ad
 
 
 ### Netx features:
-New recipes for axe reinforcement
+- New recipes for axe reinforcement
