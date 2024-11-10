@@ -45,5 +45,5 @@ With Empowered Armaments, players can explore new crafting recipes and use advan
 *   Reinforced iron sword: **11 Attack Damage, 2 Attack Speed**
 *   Reinforced diamond sword: **14 Attack Damage, 2 Attack Speed**
 
-### Next features:
-- New recipes for axe reinforcement
+### Next featu
+- New recipes for axe reinforcementres.
