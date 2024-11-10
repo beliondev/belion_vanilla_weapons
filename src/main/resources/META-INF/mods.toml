@@ -8,7 +8,7 @@ license="All rights reserved" # Licencia del mod, obligatorio.
 
 [[mods]] # Sección obligatoria que describe el mod.
 modId="empowered_armaments" # Identificador único del mod, obligatorio.
-version="0.1.0" # Versión del mod, obligatorio.
+version="0.0.1" # Versión del mod, obligatorio.
 displayName="Empowered Armaments" # Nombre que se mostrará para el mod, obligatorio.
 credits="Inspirado en la comunidad de modding de Minecraft y desarrollado por Belion Dev" # Créditos opcionales.
 authors="Belion Dev" # Autor o autores del mod, opcional.
