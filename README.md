@@ -11,7 +11,8 @@ With Belion Vanilla Weapons, players can explore new crafting recipes and use ad
 
 - Reinforced wooden sword
   <blockquote>
-    ![madera_reforzada](https://github.com/user-attachments/assets/95b8c00c-3b46-450e-96a3-d330c5da4666)<br/>
+    ![madera_reforzada](https://github.com/user-attachments/assets/95b8c00c-3b46-450e-96a3-d330c5da4666)
+    <br/>
     Cobblestone x5<br/>
     Wooden Sword x1<br/>
     Leather x1<br/>
