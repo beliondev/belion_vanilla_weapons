@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "NIN",
+    " C "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "I": {
+      "item": "minecraft:diamond_sword"
+    },
+    "C": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "empowered_armaments:espada_diamante_reforzada",
+    "count": 1
+  }
+}
