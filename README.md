@@ -1,4 +1,4 @@
-EMPOWERED ARMAMENTS
+EMPOWERED ARMAMENTS v1.18
 ===================
 
 Empowered Armaments is a mod designed to enhance the gameplay experience with basic Minecraft weapons, such as swords and axes. This mod allows players to upgrade and improve vanilla weapons, adding a new level of power and functionality to make them more effective in combat.
@@ -47,3 +47,12 @@ With Empowered Armaments, players can explore new crafting recipes and use advan
 
 ### Next features
 - New recipes for axe reinforcementres.
+
+## Change Log
+
+### 0.0.1:
+    - Swords and code base
+
+### 0.0.2:
+    - new languages: IT, DE, FR, PR.
+    - 70% file weight reduction
