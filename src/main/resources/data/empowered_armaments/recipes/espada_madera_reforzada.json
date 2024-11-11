@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RWR",
+    " C "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:cobblestone"
+    },
+    "W": {
+      "item": "minecraft:wooden_sword"
+    },
+    "C": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "empowered_armaments:espada_madera_reforzada",
+    "count": 1
+  }
+}
